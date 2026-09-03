@@ -1,6 +1,6 @@
 <H3>NAME: DAKSHA SUBBAIAN </H3>
 <H3>REGISTER NO: 212223230036</H3>
-<H3>EX.NO:7</H3>
+<H3>EX.NO:9</H3>
 <H1 ALIGN =CENTER>Implementation of Text  Summarization</H1>
 
 ## AIM:
